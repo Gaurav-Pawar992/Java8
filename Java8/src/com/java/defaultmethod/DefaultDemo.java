@@ -39,7 +39,6 @@ class Car implements Vehicle{
 	
 }
 
-
 public class DefaultDemo {
 	
 	public static void main(String[] args) {

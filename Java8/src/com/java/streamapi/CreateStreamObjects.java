@@ -16,6 +16,7 @@ public class CreateStreamObjects {
 		Stream<String> stream = Stream.of("a","b","c");
 		stream.forEach(System.out::println);
 		
+		
 		// Create stream from sources
 		
 		Collection<String> collection = Arrays.asList("JAVA","PYTHON","C#","C++");
