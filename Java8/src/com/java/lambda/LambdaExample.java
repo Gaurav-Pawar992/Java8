@@ -54,7 +54,6 @@ public class LambdaExample {
 		print(()->System.out.println("Square Class Draw Method"));
 		print(()->System.out.println("Circle Class Draw Method"));
 		
-		
 	}
 	
 	// Pass lambda expression as method parameter
